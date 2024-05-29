@@ -26,21 +26,21 @@ nav ul{
 nav{
     display: flex;
 }
-.header-sec{
+/* .header-sec{
     width: 80vw;
     height: 58vh;
     background-color: rgb(26, 53, 134);
     margin: auto;
     position: relative;
     top: 50px;
-}
-nav h2{
+} */
+/* nav h2{
     color: rgb(26, 53, 134);
     font-weight: bold;
     position: relative;
     left: 170px;
     top: 24px;
-}
+} */
 img{
     width: 400px;
     height: 318px;
